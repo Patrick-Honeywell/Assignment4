@@ -1,6 +1,5 @@
 # Assignment4
 
 # This java program sorts user inputs from least to greatest and stores them in a linked list.
-# To end program and see final list input an integer
+# Input an integer to end the program and get a final iteration of list
 
-#The zip folder contains the entirety of the java project as well as javadocs
